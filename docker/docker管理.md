@@ -18,6 +18,7 @@ docker run -d -p 9000:8080 --name shipyard -v /var/run/docker.sock:/var/run/dock
 ```
 cat shipyard-deploy | ACTION=deploy bash
 ```
+PS：参见[shipyard－deploy脚本](https://github.com/gooree/awesome-devops/blob/master/docker/shipyard-deploy)
 
 2）停止运行镜像
 
