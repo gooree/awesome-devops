@@ -4,7 +4,19 @@
 
 ## 目录
 
+- [Git](#Git)
+- [Jenkins](#Jenkins)
 - [Docker](#Docker)
+
+## Git
+
+- [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+- [Pro Git](https://legacy.gitbook.com/book/bingohuang/progit2/details)
+
+## Jenkins
+
+- [Jenkins官方文档](https://www.w3cschool.cn/jenkins/)
+- [Jenkins教程](https://www.yiibai.com/jenkins/)
 
 ## Docker
 
