@@ -12,6 +12,7 @@
 
 - [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
 - [Pro Git](https://legacy.gitbook.com/book/bingohuang/progit2/details)
+- [Git Branch Learning](https://github.com/pcottle/learnGitBranching)
 
 ## Jenkins
 
