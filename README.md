@@ -24,8 +24,7 @@
 ## Maven
 
 - [Maven权威指南](https://book.huihoo.com/maven-the-definitive-guide/index.html)
-
-*在此推荐下<Maven实战>这本书，感兴趣的可以自行去京东或当当搜索*
+- [Maven实战] 此处由于版权原因不便给出链接
 
 ## Docker
 
