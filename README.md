@@ -25,6 +25,8 @@
 
 - [Maven权威指南](https://book.huihoo.com/maven-the-definitive-guide/index.html)
 
+*在此推荐下<Maven实战>这本书，感兴趣的可以自行去京东或当当搜索*
+
 ## Docker
 
 - [Docker命令](https://github.com/gooree/awesome-devops/blob/master/docker/docker%E5%91%BD%E4%BB%A4.md)
