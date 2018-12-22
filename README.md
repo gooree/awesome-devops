@@ -6,6 +6,7 @@
 
 - [Git](#Git)
 - [Jenkins](#Jenkins)
+- [Maven](#Maven)
 - [Docker](#Docker)
 
 ## Git
@@ -18,6 +19,10 @@
 
 - [Jenkins官方文档](https://www.w3cschool.cn/jenkins/)
 - [Jenkins教程](https://www.yiibai.com/jenkins/)
+
+## Maven
+
+- [Maven权威指南](https://book.huihoo.com/maven-the-definitive-guide/index.html)
 
 ## Docker
 
