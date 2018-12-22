@@ -8,6 +8,7 @@
 - [Jenkins](#Jenkins)
 - [Maven](#Maven)
 - [Docker](#Docker)
+- [Zabbix](#Zabbix)
 
 ## Git
 
@@ -30,4 +31,8 @@
 - [Dockfile语法](https://github.com/gooree/awesome-devops/blob/master/docker/dockfile%E8%AF%AD%E6%B3%95.md)
 - [常用Docker容器](https://github.com/gooree/awesome-devops/blob/master/docker/%E5%B8%B8%E7%94%A8%E5%AE%B9%E5%99%A8.md)
 - [Docker容器管理](https://github.com/gooree/awesome-devops/blob/master/docker/docker%E7%AE%A1%E7%90%86.md)
+
+## Zabbix
+
+- [Zabbix快速入门到精通](https://www.linuxidc.com/Linux/2017-05/143776.htm)
 
