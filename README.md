@@ -24,7 +24,7 @@
 ## Maven
 
 - [Maven权威指南](https://book.huihoo.com/maven-the-definitive-guide/index.html)
-- [Maven实战] 此处由于版权原因不便给出链接
+- [Maven实战](https://book.douban.com/subject/5345682/)
 
 ## Docker
 
